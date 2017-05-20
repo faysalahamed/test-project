@@ -1,4 +1,4 @@
 Create table employee(
-	empID number(11),
-	empName varchar(255)
+	employeeID number(11),
+	employeeName varchar(255)
 );
